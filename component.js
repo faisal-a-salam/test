@@ -12,4 +12,8 @@ export class Person {
   }
 }
 
+let obj = {
+    fname ="fahim"
+}
+
 export default hello;
